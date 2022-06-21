@@ -193,7 +193,7 @@ var Module = typeof Module !== 'undefined' ? Module : {};
     }
   
    }
-   loadPackage({"files": [{"filename": "/assets/default.woff2", "start": 0, "end": 145972}, {"filename": "/assets/fonts.conf", "start": 145972, "end": 146775}], "remote_package_size": 146775, "package_uuid": "61535c35-7555-4990-9a8b-1b014d83de19"});
+   loadPackage({"files": [{"filename": "/assets/default.woff2", "start": 0, "end": 145972}, {"filename": "/assets/fonts.conf", "start": 145972, "end": 146775}], "remote_package_size": 146775, "package_uuid": "f78f0ea4-b00e-4cca-ab8e-2a5289e04642"});
   
   })();
   
